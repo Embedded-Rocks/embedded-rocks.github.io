@@ -7,8 +7,6 @@ layout: default
 
 Embedded Rocks is a hub for makers, engineers, and electronics enthusiasts. We create open-source hardware, DIY kits, and courses to inspire hands-on innovation. Whether you're soldering your first circuit or developing embedded systems, we provide the tools to bring your ideas to life.
 
-[Learn More About Us](/about)
-
 ---
 
 ## 🛠️ Projects
@@ -19,7 +17,7 @@ Embedded Rocks is a hub for makers, engineers, and electronics enthusiasts. We c
 
 ## 🛍️ Shop ![90s GIF Sale](assets/img/sale.gif) 
 
-Looking for awesome DIY electronics kits? Check out the Embedded Rocks store, where you’ll find open-source hardware like the Clockwise DIY smart clock kit and more exciting maker projects.
+Looking for awesome DIY electronics kits? Check out the Embedded Rocks store, where you’ll find open-source hardware like the Clockwise DIY smart clock kit and more coming soon. Get 10% OFF using the code ´CLOCKWISEDIS10´.
 
 [Explore the Store Now!](https://www.elecrow.com/store/embedded.rocks)
 
@@ -52,7 +50,7 @@ Stay in the loop! Join our newsletter and get early access to new kits, exclusiv
 ---
 
 <small>
-[@embedded-rocks](https://www.instagram.com/embedded-rocks) 
+[@embedded-rocks](https://www.instagram.com/embedded.rocks) 
 Building Open-Source Hardware & Software That Rocks!
 </small>
 
