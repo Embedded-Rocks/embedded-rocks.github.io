@@ -50,8 +50,7 @@ Stay in the loop! Join our newsletter and get early access to new kits, exclusiv
 ---
 
 <small>
-[@embedded-rocks](https://www.instagram.com/embedded.rocks) 
-Building Open-Source Hardware & Software That Rocks!
+[@embedded.rocks](https://www.instagram.com/embedded.rocks)
 </small>
 
 
