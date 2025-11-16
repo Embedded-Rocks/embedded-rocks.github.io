@@ -27,8 +27,9 @@ Local password management without cloud dependencies. Designed for those who pre
 ---
 
 ## 🛒 Hardware Store
+<img width="372" height="451" alt="image" align="center" style="display: block; margin: 0 auto;" src="https://github.com/user-attachments/assets/18a26ebf-55fc-4446-b0c4-0af55884aa59" />
 
-**[Embedded Rocks Store](https://www.elecrow.com/store/embedded.rocks)** ![90s GIF Sale](assets/img/sale.gif)
+**[Embedded Rocks! Store](https://www.elecrow.com/store/embedded.rocks)** ![90s GIF Sale](assets/img/sale.gif)
 
 The Clockwise kit is currently available, with all required components and documentation included. Use code `CLOCKWISEDIS10` for 10% off.
 
